@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVADO DS/LAB 01/Lab 01/Lab 01.srcs/sim_1/new/andgate_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module andgate_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/VIVADO DS/LAB 01/Lab 01/Lab 01.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
