@@ -1,0 +1,7 @@
+Vivado Simulator 2016.2
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2016.2/bin/unwrapped/win64.o/xelab.exe -wto ba753a5e84ba4d91b39235bfd3850cdc --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot andgate_test_behav xil_defaultlib.andgate_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2063] Module <andgate> not found while processing module instance <andgate1> [D:/VIVADO DS/LAB 01/Lab 01/Lab 01.srcs/sim_1/new/andgate_test.v:41]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
