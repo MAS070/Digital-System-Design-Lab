@@ -1,6 +1,8 @@
 
 
 module FullAdder(Carry, Sum, A, B, Cin);
+
+// Input and Output decleration
 input A, B, Cin;
 output Carry, Sum;
 
@@ -11,6 +13,6 @@ xor xor2(Sum, s1, Cin);
 and and2(s2, s1, Cin);
 xor xor3(Carry, c1, s2);
 
-
+  //end module
 endmodule 
 
